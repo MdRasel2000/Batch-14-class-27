@@ -1,0 +1,36 @@
+
+
+.....loop....
+ 1.for loop
+ 2.foreach loop
+ 3.while loop
+ 4. while loop
+
+
+ ....for loop...
+
+
+  for(initilization; range\condition;increement\ decreement) {
+
+    \\statement....
+    
+  }
+
+  1. hello world = 9
+  2. hello world = 7
+  3. hello world = 9
+  4.hello world = 6
+  5. hello world = 3
+
+if(i=1; 1<=5;  1+++) {
+
+console.log("hello world");
+
+}
+
+  if(number[i]==0){
+                 
+          console.log("even")
+
+       }
+             
